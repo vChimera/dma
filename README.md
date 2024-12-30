@@ -68,6 +68,7 @@ banner()
 >>> Output :
 ```
 > ![]()
+```
 # Fading a ascii art text (purpleblue)
 fade = LowTaperFade().doit(ascii, purpleblue)
 
@@ -79,6 +80,7 @@ banner()
 >>> Output :
 ```
 > ![]()
+```
 # Fading a ascii art text (water)
 fade = LowTaperFade().doit(ascii, water)
 
@@ -89,7 +91,8 @@ def banner():
 banner()
 >>> Output :
 ```
-> ![]()``
+> ![]()
+```
 # Fading a ascii art text (fire)
 fade = LowTaperFade().doit(ascii, fire)
 
@@ -113,6 +116,7 @@ banner()
 >>> Output :
 ```
 > ![]()
+```
 # Fading a ascii art text (random)
 fade = LowTaperFade().doit(ascii, Fade.random)
 
@@ -123,9 +127,9 @@ def banner():
 banner()
 >>> Output :
 ```
-
-> # FADE
+> ![]()
 ```
+> # FADE
 # Module made by x3f on discord (anvil)
 from dma import Fade
 from os  import system
@@ -189,6 +193,7 @@ banner()
 >>> Output :
 ```
 > ![]()
+```
 # Fading a ascii art text (purpleblue)
 
 def banner():
@@ -198,7 +203,8 @@ def banner():
 banner()
 >>> Output :
 ```
-> ![]() 
+> ![]()
+```
 # Fading a ascii art text (water)
 
 def banner():
@@ -209,6 +215,7 @@ banner()
 >>> Output :
 ```
 > ![]()
+```
 # Fading a ascii art text (fire)
 
 def banner():
@@ -230,6 +237,7 @@ banner()
 >>> Output :
 ```
 > ![]()
+```
 # Fading a ascii art text (random)
 
 def banner():
@@ -239,5 +247,8 @@ def banner():
 banner()
 >>> Output :
 ```
-> ![](# **Download** : ``pip install dma``<br>
+> ![]()
+
+
+### **Download** : ``pip install dma``<br>
 ### **PyPi : https://pypi.org/project/dma**
