@@ -22,7 +22,7 @@ ascii = """ @@@@@@   @@@  @@@  @@@  @@@  @@@  @@@
 ```
 ```
 # Fading a ascii art text (blackwhite)
-fade = LowTaperFade().doit(ascii, Fade.blackwhite)
+fade = LowTaperFade().doit(ascii, CFade.blackwhite)
 
 def banner():
     system("cls||clear")
@@ -34,7 +34,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (purplepink)
-fade = LowTaperFade().doit(ascii, purplepink)
+fade = LowTaperFade().doit(ascii, CFade.purplepink)
 
 def banner():
     system("cls||clear")
@@ -46,7 +46,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (greenblue)
-fade = LowTaperFade().doit(ascii, greenblue)
+fade = LowTaperFade().doit(ascii, CFade.greenblue)
 
 def banner():
     system("cls||clear")
@@ -58,7 +58,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (pinkred)
-fade = LowTaperFade().doit(ascii, pinkred)
+fade = LowTaperFade().doit(ascii, CFade.pinkred)
 
 def banner():
     system("cls||clear")
@@ -70,7 +70,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (purpleblue)
-fade = LowTaperFade().doit(ascii, purpleblue)
+fade = LowTaperFade().doit(ascii, CFade.purpleblue)
 
 def banner():
     system("cls||clear")
@@ -82,7 +82,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (water)
-fade = LowTaperFade().doit(ascii, water)
+fade = LowTaperFade().doit(ascii, CFade.water)
 
 def banner():
     system("cls||clear")
@@ -94,7 +94,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (fire)
-fade = LowTaperFade().doit(ascii, fire)
+fade = LowTaperFade().doit(ascii, CFade.fire)
 
 def banner():
     system("cls||clear")
@@ -106,7 +106,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (brazil)
-fade = LowTaperFade().doit(ascii, brazil)
+fade = LowTaperFade().doit(ascii, CFade.brazil)
 
 def banner():
     system("cls||clear")
@@ -118,7 +118,7 @@ banner()
 > ![]()
 ```
 # Fading a ascii art text (random)
-fade = LowTaperFade().doit(ascii, Fade.random)
+fade = LowTaperFade().doit(ascii, CFade.random)
 
 def banner():
     system("cls||clear")
